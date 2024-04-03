@@ -11,7 +11,7 @@ In this activity, you will be completing a series of JavaScript exercises on you
 
 3. After you complete each problem, check in with your teammates. If you were unable to complete the problem, ask your teammates for help. Your teammates should NOT simply show you the answer. 
 
-4. Once everybody in your team has completed the problem, compare your respective solutions and note any differences in your approaches. In the comments below your problem, briefly note these differences, highlighting anything you found interesting.
+4. Once everybody in your team has completed the problem, compare your respective solutions and note any differences in your approaches. In the comments below your problem, briefly note these differences, highlighting anything you found interesting. If everybody on your team had essentially the same solution, note that instead.
 
 5. Once your team has completed all problems, create a *.zip file containing all of your code and submit it on Canvas. Each team member is submitting their own work. Your *.zip file does not have to have a specific name.
 
