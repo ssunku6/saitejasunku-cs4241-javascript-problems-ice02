@@ -23,6 +23,8 @@ const Painter = {
         body.style.backgroundColor = "#"+randomColor; //setting background a random color
     }
 }
+// Comparisons
+// Others used class approach and constructors or the object approach, which is similar to mine
 //source - https://css-tricks.com/snippets/javascript/random-hex-color/
 
 // PROBLEM 2
@@ -49,6 +51,8 @@ window.addEventListener("DOMContentLoaded", () => {
 
     }
 });
+// Comparison
+// Similar approach of creating div element and appending that to the body. Used a different logic to generate random colors, by ensuring RGB colors are not equal.
 //source - https://stackoverflow.com/questions/44790001/restrict-random-color-generator-function-to-generate-specific-color-in-javascrip
 
 // PROBLEM 3
@@ -67,7 +71,8 @@ window.addEventListener("DOMContentLoaded", () => {
         body.appendChild(heading); //pasting h1 into body
     });
 })
-
+// Comparison
+// Used similar approach, but different functions to add value to the h1 tag like used textContent
 
 // PROBLEM 4
 // make a button that, when clicked, creates a new
@@ -97,4 +102,6 @@ window.addEventListener("DOMContentLoaded", () => {
         return result;
     }
 })
+// Comparison
+// Similar approach mostly but again used different functions like removeChild to delete button, and directly setting the innerHTML value to the button instead of appending the child. THe logic for randomg string generation is different. 
 //source - https://www.programiz.com/javascript/examples/generate-random-strings
